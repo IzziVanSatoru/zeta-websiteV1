@@ -1,0 +1,43 @@
+[
+    {
+      "id": 1,
+      "name": "Reading Books",
+      "description": "Zeta enjoys reading a wide range of books, especially fantasy and sci-fi genres."
+    },
+    {
+      "id": 2,
+      "name": "Gaming",
+      "description": "Zeta loves playing action RPG games, with a particular interest in immersive world-building games."
+    },
+    {
+      "id": 3,
+      "name": "Playing Chess",
+      "description": "Zeta often plays chess as a way to exercise the mind and enjoy strategic thinking."
+    },
+    {
+      "id": 4,
+      "name": "Listening to Music",
+      "description": "Zeta has a deep love for music, especially electronic, lo-fi, and classical genres."
+    },
+    {
+      "id": 5,
+      "name": "Jogging",
+      "description": "Zeta enjoys jogging every morning to stay fit and clear the mind."
+    },
+    {
+      "id": 6,
+      "name": "Cats",
+      "description": "Zeta loves cats for their playful and independent nature, often spending time with her own cat."
+    },
+    {
+      "id": 7,
+      "name": "Drawing Art",
+      "description": "Zeta is passionate about drawing, particularly digital art, and loves creating characters."
+    },
+    {
+      "id": 8,
+      "name": "Cooking",
+      "description": "Zeta loves experimenting in the kitchen, especially with Japanese and Italian cuisines."
+    }
+  ]
+  

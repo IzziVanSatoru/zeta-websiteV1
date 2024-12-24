@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Vestia Zeta - Smartwatch Series 1",
+    "description": "Jam tangan pintar terbaru dari Vestia Zeta yang dilengkapi dengan berbagai fitur canggih, termasuk pemantauan kesehatan dan pelacakan aktivitas. Desain minimalis dan elegan, cocok untuk aktivitas sehari-hari.",
+    "price": 1500000
+  },
+  {
+    "id": 2,
+    "name": "Vestia Zeta - Wireless Earbuds",
+    "description": "Earbuds nirkabel Vestia Zeta yang menghadirkan kualitas suara superior dengan desain ergonomis. Dilengkapi dengan teknologi noise-canceling untuk pengalaman mendengarkan yang lebih optimal.",
+    "price": 899000
+  },
+  {
+    "id": 3,
+    "name": "Vestia Zeta - Portable Power Bank 20,000mAh",
+    "description": "Power bank portabel dari Vestia Zeta dengan kapasitas 20,000mAh, memungkinkan Anda untuk mengisi daya perangkat kapan saja dan di mana saja. Dengan desain kompak dan ringan, mudah dibawa kemana-mana.",
+    "price": 499000
+  }
+]
